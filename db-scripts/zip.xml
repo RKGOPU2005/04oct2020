@@ -9,8 +9,8 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>db-scripts/c2345</directory>
-			<outputDirectory>./c2345</outputDirectory>
+            <directory>db-scripts/cr1234</directory>
+			<outputDirectory>./cr1234</outputDirectory>
         </fileSet>
     </fileSets>
     <!--<files>
